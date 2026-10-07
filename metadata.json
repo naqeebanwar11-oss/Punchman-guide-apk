@@ -1,0 +1,6 @@
+{
+  "name": "Punchman",
+  "description": "Trading algorithm indicator app showing real-time market signals, where to buy, and where to sell like TradingView algos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
